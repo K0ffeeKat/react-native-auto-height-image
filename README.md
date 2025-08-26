@@ -1,5 +1,7 @@
 # react-native-auto-height-image
 
+This is a fork of [vivaxy/gt-npm-package](https://github.com/vivaxy/gt-npm-package) used for personal purposes as the original package has not been updated for a long time.
+
 Initialized by [vivaxy/gt-npm-package](https://github.com/vivaxy/gt-npm-package)
 
 [![NPM Version](http://img.shields.io/npm/v/react-native-auto-height-image.svg?style=flat-square)](https://www.npmjs.com/package/react-native-auto-height-image)
